@@ -10,9 +10,13 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.16",
+    "axios": "^1.6.2",
+    "crypto-js": "^4.2.0",
+    "encrypt-rsa": "^2.1.5",
     "eslint": "8.54.0",
     "eslint-config-next": "14.0.3",
     "next": "14.0.3",
+    "node-rsa": "^1.1.1",
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
